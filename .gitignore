@@ -1,0 +1,41 @@
+/target/
+**/target
+!.mvn/wrapper/maven-wrapper.jar
+
+prv_**
+**/logs
+**.DS_**
+
+### build files...
+deployment/deploy-to-nexus/target
+**/deploy_dc/target
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.idea/**
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+
+/deployment/deploy_dc/common/
+/deployment/deploy_dc/DEV/
+
