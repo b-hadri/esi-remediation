@@ -27,6 +27,11 @@ deployment/deploy-to-nexus/target
 *.iml
 *.ipr
 
+### Visual Code ###
+.vscode
+.vscode/**
+**/.vscode/**
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
